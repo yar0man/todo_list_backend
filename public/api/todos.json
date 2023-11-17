@@ -1,0 +1,6 @@
+[
+  { "id": "1", "priority": 2, "completed": false, "title": "clean my room" },
+  { "id": "2", "priority": 3, "completed": false, "title": "do homework" },
+  { "id": "3", "priority": 1, "completed": true, "title": "write a letter" },
+  { "id": "4", "priority": 5, "completed": true, "title": "go to the gym" }
+]
