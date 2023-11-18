@@ -38,6 +38,7 @@ const deleteTodo: ControllerAction = async(req, res) => {
   await todo.destroy();
 
   res.sendStatus(204);
+  res.send(todo);
 };
 
 const updateTodo: ControllerAction = async(req, res) => {
